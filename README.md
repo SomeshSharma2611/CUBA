@@ -75,9 +75,4 @@ AI and Machine Learning
 
 ## Author  
 
-Somesh Sharma  
-Divyansh Katakwar
-Yash Kedar
-Chaitrali Deshpande
-Hardik Thakre
-Vanashree Parbat
+Somesh Sharma, Divyansh Katakwar, Yash Kedar, Chaitrali Deshpande, Hardik Thakre, Vanashree Parbat
